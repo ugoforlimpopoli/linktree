@@ -72,8 +72,8 @@
 }
 .icons8-twitter { 
     display: inline-block;
-    width: 34px;
-    height: 34px;
+    width: 31px;
+    height: 31px;
     background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNicgaGVpZ2h0PScxNicgZmlsbD0nY3VycmVudENvbG9yJyBjbGFzcz0nYmkgYmktdHdpdHRlci14JyB2aWV3Qm94PScwIDAgMTYgMTYnPjxwYXRoIGQ9J00xMi42Ljc1aDIuNDU0bC01LjM2IDYuMTQyTDE2IDE1LjI1aC00LjkzN2wtMy44NjctNS4wNy00LjQyNSA1LjA3SC4zMTZsNS43MzMtNi41N0wwIC43NWg1LjA2M2wzLjQ5NSA0LjYzM0wxMi42MDEuNzVabS0uODYgMTMuMDI4aDEuMzZMNC4zMjMgMi4xNDVIMi44NjV6Jy8+PC9zdmc+') 50% 50% no-repeat;
     background-size: 100%; 
 }
