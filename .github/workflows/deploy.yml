@@ -26,9 +26,9 @@ jobs:
         run: |
           ls -R
 
-      # Setup Pages
+      # Setup GitHub Pages (correct action)
       - name: Setup GitHub Pages
-        uses: actions/setup-pages@v4
+        uses: actions/configure-pages@v5
 
       # Upload only the my-tree folder, which includes index.html and css files
       - name: Upload my-tree folder to Pages
