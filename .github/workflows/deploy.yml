@@ -34,7 +34,7 @@ jobs:
       - name: Upload my-tree folder to Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './my-tree'
+          path: './linktree'
 
       # Deploy the artifact to GitHub Pages
       - name: Deploy to GitHub Pages
